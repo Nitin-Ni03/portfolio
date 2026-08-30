@@ -59,10 +59,10 @@ const Navbar = () => {
             className="flex items-center space-x-1 cursor-pointer group select-none"
           >
             <span className="text-2xl font-bold tracking-tight text-white font-heading">
-              Ni
+              Nitin
             </span>
-            <span className="text-2xl font-bold text-orange-500 text-glow-orange font-heading transition-transform duration-300 group-hover:scale-125">
-              3
+            <span className="text-2xl font-black text-orange-500 text-glow-orange font-heading transition-transform duration-300 group-hover:scale-150 inline-block">
+              .
             </span>
           </div>
 

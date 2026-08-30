@@ -14,9 +14,9 @@ const Footer = () => {
 
       <div className="max-w-7xl mx-auto px-6 md:px-8 relative flex flex-col md:flex-row items-center justify-between gap-6">
         {/* Brand */}
-        <div className="flex items-center space-x-1 cursor-pointer select-none" onClick={handleScrollToTop}>
-          <span className="text-xl font-bold tracking-tight text-white font-heading">Ni</span>
-          <span className="text-xl font-bold text-orange-500 text-glow-orange font-heading">3</span>
+        <div className="flex items-center space-x-0.5 cursor-pointer select-none" onClick={handleScrollToTop}>
+          <span className="text-xl font-bold tracking-tight text-white font-heading">Nitin</span>
+          <span className="text-xl font-black text-orange-500 text-glow-orange font-heading">.</span>
         </div>
 
         {/* copyright */}

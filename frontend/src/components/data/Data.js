@@ -1,50 +1,47 @@
 export const personalInfo = {
   name: "Nitin Shelke",
-  title: "Full Stack Java & Frontend Developer",
+  title: "Frontend & React Developer",
   phone: "+91 7666592336",
   email: "nitinshelke2005@gmail.com",
   github: "https://github.com/Nitin-Ni03",
   linkedin: "https://www.linkedin.com/in/nitinshelke", // standard format
-  summary: "Aspiring Frontend and Java Developer skilled in React.js, JavaScript, JWT Authentication, and responsive web design. Experienced in building interactive web applications, REST API integration, and secure backend systems using modern web technologies."
+  summary: "Aspiring Frontend Developer skilled in React.js, JavaScript, modern CSS layouts, and interactive UI/UX animations. Experienced in building high-performance responsive web applications, REST API integrations, and translating complex design mockups into pixel-perfect interactive frontends."
 };
 
 export const skills = {
-  languages: [
-    { name: "Java", level: 90 },
-    { name: "JavaScript", level: 85 },
-    { name: "HTML5", level: 95 },
-    { name: "CSS3", level: 90 }
+  design: [
+    { name: "Responsive Design", level: 96 },
+    { name: "Flexbox & CSS Grid", level: 95 },
+    { name: "DOM Manipulation", level: 92 },
+    { name: "UI/UX Animations", level: 90 }
   ],
   frameworks: [
-    { name: "React.js", level: 85 },
-    { name: "Spring Boot", level: 80 },
-    { name: "Hibernate", level: 75 },
-    { name: "Spring Security", level: 75 }
+    { name: "React.js", level: 92 },
+    { name: "Spring Boot", level: 75 },
+    { name: "Spring Security & JWT", level: 75 },
+    { name: "Hibernate / JPA", level: 70 }
+  ],
+  languages: [
+    { name: "JavaScript (ES6+)", level: 92 },
+    { name: "HTML5", level: 95 },
+    { name: "CSS3 / Sass", level: 92 },
+    { name: "Java", level: 80 }
   ],
   databases: [
-    { name: "MySQL", level: 80 },
+    { name: "MySQL", level: 75 },
     { name: "MongoDB", level: 70 }
   ],
   tools: [
-    { name: "Git", level: 85 },
-    { name: "GitHub", level: 85 },
-    { name: "Postman", level: 80 },
-    { name: "VS Code", level: 90 },
-    { name: "IntelliJ IDEA", level: 85 },
-    { name: "Eclipse", level: 75 }
+    { name: "Git & GitHub", level: 88 },
+    { name: "VS Code & Postman", level: 90 },
+    { name: "IntelliJ IDEA", level: 80 },
+    { name: "Webpack & Vite", level: 85 }
   ],
   concepts: [
-    { name: "REST APIs", level: 85 },
+    { name: "API Integration", level: 90 },
+    { name: "RESTful Services", level: 85 },
     { name: "JWT Authentication", level: 80 },
-    { name: "CRUD Operations", level: 90 },
-    { name: "OOP", level: 85 },
-    { name: "API Integration", level: 85 }
-  ],
-  design: [
-    { name: "Responsive Design", level: 90 },
-    { name: "CSS Grid", level: 85 },
-    { name: "Flexbox", level: 95 },
-    { name: "DOM Manipulation", level: 90 }
+    { name: "Object-Oriented Programming", level: 82 }
   ]
 };
 
