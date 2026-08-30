@@ -1,5 +1,6 @@
 import { motion } from "framer-motion";
-import { Github, ExternalLink, Code2, Database, Terminal, Cpu } from "lucide-react";
+import { ExternalLink, Code2, Database, Terminal, Cpu } from "lucide-react";
+import { Github } from "../common/BrandIcons";
 import { projects, skills } from "../data/Data";
 import ThreeDCard from "../common/ThreeDCard";
 import SkillsSphere from "../common/SkillsSphere";

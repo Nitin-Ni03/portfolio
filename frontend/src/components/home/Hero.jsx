@@ -1,6 +1,7 @@
 import { motion } from "framer-motion";
 import { useEffect, useState } from "react";
-import { Github, Linkedin, Mail, Phone, ArrowDown, ChevronRight } from "lucide-react";
+import { Mail, Phone, ArrowDown, ChevronRight } from "lucide-react";
+import { Github, Linkedin } from "../common/BrandIcons";
 import ThreeDCard from "../common/ThreeDCard";
 import { personalInfo } from "../data/Data";
 

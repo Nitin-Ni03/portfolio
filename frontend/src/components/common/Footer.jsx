@@ -1,4 +1,5 @@
-import { ArrowUp, Github, Linkedin, Mail } from "lucide-react";
+import { ArrowUp, Mail } from "lucide-react";
+import { Github, Linkedin } from "./BrandIcons";
 import { personalInfo } from "../data/Data";
 
 const Footer = () => {
